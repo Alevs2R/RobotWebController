@@ -1,0 +1,12 @@
+.button {
+    padding: 15px;
+    background: #6d7991;
+    border-radius: 8px;
+    margin: 5px 0;
+    text-align: center;
+    user-select: none;
+}
+
+.button:active {
+    background: #323545;
+}
